@@ -4,7 +4,7 @@ user:
   #tellphone 电话号码
   tellphone: '13732918977'
   #address 地址，定位信息
-  address: 中国xx省xx市xx县xx路
+  address: 中国江西省南昌市新建区
   #email 接受通知消息的邮箱
   email: 3074324245@qq.com
   #school 学校全称
